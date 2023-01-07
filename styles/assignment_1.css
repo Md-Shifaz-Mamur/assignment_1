@@ -18,7 +18,7 @@
     font-weight: 700;
     font-size: 65px;
     height: 228px;
-    
+
 }
 
 .banner-subtitle {
@@ -27,7 +27,7 @@
     height: 78px;
     margin-top: 24px;
     margin-bottom: 32px;
- 
+
 }
 
 .btn-primary {
@@ -37,4 +37,49 @@
     padding: 21px 20px 25px 26px;
     border-radius: 5px;
     margin-top: 40px;
+}
+
+/* Failure of Previous Year Section */
+.failure-list {
+    list-style-type: none;
+
+    font-weight: 400;
+    font-size: 25px;
+
+
+}
+
+.photo-banner-txt {
+    text-align: left;
+}
+
+/* 
+.photo-banner-txt .failure-list{
+    text-decoration: none;
+} */
+
+
+.photo-banner {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin: 200px 450px;
+
+
+}
+
+.sec1-title {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.sec1-subtitl {
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.failure-list{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 35px;
 }
