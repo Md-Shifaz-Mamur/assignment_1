@@ -6,7 +6,7 @@
 .banner-content {
     color: #FFFFFF;
     text-align: right;
-    background: url(/images/banner/banner3.png);
+    background: url(../images/banner/banner3.png);
     padding: 216px 250px 230px 1200px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -122,7 +122,7 @@
 
 
 .plan-banner-content {
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(/images/watch.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -134,7 +134,7 @@
 
 
 .food-plan-banner-content{
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(/images/diet.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/diet.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
